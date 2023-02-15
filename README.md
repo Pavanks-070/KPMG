@@ -1,3 +1,0 @@
-# KPMG
-KPMG Assessment
-
