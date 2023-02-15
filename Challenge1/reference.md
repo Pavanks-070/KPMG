@@ -1,6 +1,6 @@
 This is a 3 tier architecture code created in JSON format, 
 
-By provisioning this on AWS cloud our infrastructure has been provisioned.
+By provisioning this on AWS cloud our our 3-tier setup will be built:
 
 The code will do following steps:
 
